@@ -1,0 +1,60 @@
+# Quartus Project Files
+*.qws
+*.qsf
+*.qdf
+*.sof
+*.pof
+*.jic
+*.rpt
+*.pin
+*.smsg
+*.eqn
+*.summary
+*.done
+*.qpf
+
+
+# Database and simulation files
+db/
+simulation/
+*.smsg
+
+# Compiled outputs
+*.map
+*.fit
+*.sta
+*.qip
+*.raw
+*.html
+*.chg
+*.csf
+*.qbk
+*.cmp
+*.dmp
+*.pmsf
+*.mif
+
+# Temporary files
+*.bak
+*.tmp
+*.~*
+
+# Backup and cache files
+*.bak
+*.cache/
+*.log
+
+# Quartus output files
+output_files/
+
+# Incremental DBs (temporary files)
+incremental_db/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
