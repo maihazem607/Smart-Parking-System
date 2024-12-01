@@ -1,4 +1,4 @@
-# Quartus output files
+# Quartus Project Files
 *.qws
 *.qsf
 *.qdf
@@ -11,6 +11,7 @@
 *.eqn
 *.summary
 *.done
+*.qpf
 
 # Database and simulation files
 db/
@@ -41,3 +42,18 @@ simulation/
 *.bak
 *.cache/
 *.log
+
+# Quartus output files
+output_files/
+
+# Incremental DBs (temporary files)
+incremental_db/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
