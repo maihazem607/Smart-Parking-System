@@ -1,0 +1,43 @@
+# Quartus output files
+*.qws
+*.qsf
+*.qdf
+*.sof
+*.pof
+*.jic
+*.rpt
+*.pin
+*.smsg
+*.eqn
+*.summary
+*.done
+
+# Database and simulation files
+db/
+simulation/
+*.smsg
+
+# Compiled outputs
+*.map
+*.fit
+*.sta
+*.qip
+*.raw
+*.html
+*.chg
+*.csf
+*.qbk
+*.cmp
+*.dmp
+*.pmsf
+*.mif
+
+# Temporary files
+*.bak
+*.tmp
+*.~*
+
+# Backup and cache files
+*.bak
+*.cache/
+*.log
